@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://troyplumbingco.com/sitemap.xml
